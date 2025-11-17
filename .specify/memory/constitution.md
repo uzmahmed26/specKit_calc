@@ -35,6 +35,9 @@ Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUI
 ### VI. Code Quality
 Code must adhere to project-specific style guides and linting rules. Automated checks should be in place to enforce this.
 
+### VII. Object-Oriented Programming
+When applicable, code should be written using Object-Oriented Programming principles.
+
 ## Additional Constraints
 
 Technology stack requirements, compliance standards, deployment policies, etc.
